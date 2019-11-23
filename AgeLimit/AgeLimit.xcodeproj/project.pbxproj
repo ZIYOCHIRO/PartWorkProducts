@@ -7,6 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E457C3522388C13C0065DB1D /* FirstNameVerifyView.m in Sources */ = {isa = PBXBuildFile; fileRef = E457C3512388C13C0065DB1D /* FirstNameVerifyView.m */; };
+		E457C3542388D3DB0065DB1D /* firstAgeVerifyBackImage.png in Resources */ = {isa = PBXBuildFile; fileRef = E457C3532388D3DB0065DB1D /* firstAgeVerifyBackImage.png */; };
+		E457C3562388E6920065DB1D /* goVerifyImage.png in Resources */ = {isa = PBXBuildFile; fileRef = E457C3552388E6920065DB1D /* goVerifyImage.png */; };
+		E457C3582388E6DE0065DB1D /* goPlayImage.png in Resources */ = {isa = PBXBuildFile; fileRef = E457C3572388E6DE0065DB1D /* goPlayImage.png */; };
+		E457C35A23893C230065DB1D /* textFieldImage.png in Resources */ = {isa = PBXBuildFile; fileRef = E457C35923893C230065DB1D /* textFieldImage.png */; };
+		E457C35C23893F1C0065DB1D /* goNextGrayImage.png in Resources */ = {isa = PBXBuildFile; fileRef = E457C35B23893F1C0065DB1D /* goNextGrayImage.png */; };
+		E457C35E23893FB90065DB1D /* warning.png in Resources */ = {isa = PBXBuildFile; fileRef = E457C35D23893FB90065DB1D /* warning.png */; };
+		E457C36023893FBE0065DB1D /* verifyFail.png in Resources */ = {isa = PBXBuildFile; fileRef = E457C35F23893FBE0065DB1D /* verifyFail.png */; };
+		E457C36223893FC20065DB1D /* verifySuccess.png in Resources */ = {isa = PBXBuildFile; fileRef = E457C36123893FC20065DB1D /* verifySuccess.png */; };
 		E48B8EBD2387ED0B00A4C4BB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E48B8EBC2387ED0B00A4C4BB /* AppDelegate.m */; };
 		E48B8EC02387ED0B00A4C4BB /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E48B8EBF2387ED0B00A4C4BB /* ViewController.m */; };
 		E48B8EC32387ED0B00A4C4BB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E48B8EC12387ED0B00A4C4BB /* Main.storyboard */; };
@@ -16,6 +25,16 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E457C3502388C13C0065DB1D /* FirstNameVerifyView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FirstNameVerifyView.h; sourceTree = "<group>"; };
+		E457C3512388C13C0065DB1D /* FirstNameVerifyView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstNameVerifyView.m; sourceTree = "<group>"; };
+		E457C3532388D3DB0065DB1D /* firstAgeVerifyBackImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = firstAgeVerifyBackImage.png; path = "../../../../Downloads/s实名认证通用弹窗2019.11.22/firstAgeVerifyBackImage.png"; sourceTree = "<group>"; };
+		E457C3552388E6920065DB1D /* goVerifyImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = goVerifyImage.png; path = "../../../../Downloads/s实名认证通用弹窗2019.11.22/goVerifyImage.png"; sourceTree = "<group>"; };
+		E457C3572388E6DE0065DB1D /* goPlayImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = goPlayImage.png; path = "../../../../Downloads/s实名认证通用弹窗2019.11.22/goPlayImage.png"; sourceTree = "<group>"; };
+		E457C35923893C230065DB1D /* textFieldImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = textFieldImage.png; path = "../../../../Downloads/s实名认证通用弹窗2019.11.22/textFieldImage.png"; sourceTree = "<group>"; };
+		E457C35B23893F1C0065DB1D /* goNextGrayImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = goNextGrayImage.png; path = "../../../../Downloads/s实名认证通用弹窗2019.11.22/goNextGrayImage.png"; sourceTree = "<group>"; };
+		E457C35D23893FB90065DB1D /* warning.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = warning.png; path = "../../../../Downloads/s实名认证通用弹窗2019.11.22/warning.png"; sourceTree = "<group>"; };
+		E457C35F23893FBE0065DB1D /* verifyFail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = verifyFail.png; path = "../../../../Downloads/s实名认证通用弹窗2019.11.22/verifyFail.png"; sourceTree = "<group>"; };
+		E457C36123893FC20065DB1D /* verifySuccess.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = verifySuccess.png; path = "../../../../Downloads/s实名认证通用弹窗2019.11.22/verifySuccess.png"; sourceTree = "<group>"; };
 		E48B8EB82387ED0B00A4C4BB /* AgeLimit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AgeLimit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E48B8EBB2387ED0B00A4C4BB /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		E48B8EBC2387ED0B00A4C4BB /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -58,10 +77,20 @@
 		E48B8EBA2387ED0B00A4C4BB /* AgeLimit */ = {
 			isa = PBXGroup;
 			children = (
+				E457C3552388E6920065DB1D /* goVerifyImage.png */,
+				E457C35B23893F1C0065DB1D /* goNextGrayImage.png */,
+				E457C35D23893FB90065DB1D /* warning.png */,
+				E457C36123893FC20065DB1D /* verifySuccess.png */,
+				E457C35923893C230065DB1D /* textFieldImage.png */,
+				E457C35F23893FBE0065DB1D /* verifyFail.png */,
+				E457C3532388D3DB0065DB1D /* firstAgeVerifyBackImage.png */,
+				E457C3572388E6DE0065DB1D /* goPlayImage.png */,
 				E48B8EBB2387ED0B00A4C4BB /* AppDelegate.h */,
 				E48B8EBC2387ED0B00A4C4BB /* AppDelegate.m */,
 				E48B8EBE2387ED0B00A4C4BB /* ViewController.h */,
 				E48B8EBF2387ED0B00A4C4BB /* ViewController.m */,
+				E457C3502388C13C0065DB1D /* FirstNameVerifyView.h */,
+				E457C3512388C13C0065DB1D /* FirstNameVerifyView.m */,
 				E48B8EC12387ED0B00A4C4BB /* Main.storyboard */,
 				E48B8EC42387ED0C00A4C4BB /* Assets.xcassets */,
 				E48B8EC62387ED0C00A4C4BB /* LaunchScreen.storyboard */,
@@ -128,9 +157,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E457C36023893FBE0065DB1D /* verifyFail.png in Resources */,
+				E457C35A23893C230065DB1D /* textFieldImage.png in Resources */,
+				E457C3542388D3DB0065DB1D /* firstAgeVerifyBackImage.png in Resources */,
 				E48B8EC82387ED0C00A4C4BB /* LaunchScreen.storyboard in Resources */,
+				E457C3562388E6920065DB1D /* goVerifyImage.png in Resources */,
 				E48B8EC52387ED0C00A4C4BB /* Assets.xcassets in Resources */,
+				E457C35E23893FB90065DB1D /* warning.png in Resources */,
 				E48B8EC32387ED0B00A4C4BB /* Main.storyboard in Resources */,
+				E457C35C23893F1C0065DB1D /* goNextGrayImage.png in Resources */,
+				E457C36223893FC20065DB1D /* verifySuccess.png in Resources */,
+				E457C3582388E6DE0065DB1D /* goPlayImage.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -142,6 +179,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E48B8EC02387ED0B00A4C4BB /* ViewController.m in Sources */,
+				E457C3522388C13C0065DB1D /* FirstNameVerifyView.m in Sources */,
 				E48B8ECB2387ED0C00A4C4BB /* main.m in Sources */,
 				E48B8EBD2387ED0B00A4C4BB /* AppDelegate.m in Sources */,
 			);
@@ -288,6 +326,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = NZHC2AZNZT;
 				INFOPLIST_FILE = AgeLimit/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -305,6 +344,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = NZHC2AZNZT;
 				INFOPLIST_FILE = AgeLimit/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
